@@ -1,0 +1,11 @@
+{
+  "name": "fraim",
+  "version": "2.0.179",
+  "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from Gemini CLI.",
+  "mcpServers": {
+    "fraim": {
+      "httpUrl": "https://fraim.wellnessatwork.me/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
